@@ -1,0 +1,17 @@
+
+*.o
+*.uvoptx
+*.Ben
+*.d
+*.txt
+*.scvd
+*.ini
+*.map
+*.lst
+*.crf
+*.iex
+*.axf
+*.htm
+*.lnp
+*.dep
+*.uvprojx
